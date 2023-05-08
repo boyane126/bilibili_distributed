@@ -1,0 +1,38 @@
+[go] 2023/05/06 16:20:52 [Log service] - hello world
+
+[go] - 2023/05/06 17:20:14 [Log service] - hello world
+
+[go] - 2023/05/06 17:27:44 [Log service] - Failed to deregister service. Registry service responded with code 500 
+
+[go] - 2023/05/06 17:27:44 [Log service] - http: Server closed
+
+[go] - 2023/05/06 17:27:45 [Log service] - hello world
+
+[go] - 2023/05/06 17:33:04 [Log service] - Failed to deregister service. Registry service responded with code 500 
+
+[go] - 2023/05/06 17:33:05 [Log service] - hello world
+
+[go] - 2023/05/06 17:33:07 [Log service] - Failed to deregister service. Registry service responded with code 500 
+
+[go] - 2023/05/06 17:33:07 [Log service] - http: Server closed
+
+[go] - 2023/05/06 17:36:23 [Log service] - Failed to deregister service. Registry service responded with code 500 
+
+[go] - 2023/05/06 17:36:23 [Log service] - http: Server closed
+
+[go] - 2023/05/06 17:36:24 [Log service] - hello world
+
+[go] - 2023/05/06 17:36:25 [Log service] - Failed to deregister service. Registry service responded with code 500 
+
+[go] - 2023/05/06 17:36:25 [Log service] - http: Server closed
+
+[go] - 2023/05/06 17:37:23 [Log service] - Failed to deregister service. Registry service responded with code 500 
+
+[go] - 2023/05/06 17:37:23 [Log service] - http: Server closed
+
+[go] - 2023/05/06 17:37:24 [Log service] - hello world
+
+[go] - 2023/05/06 17:37:25 [Log service] - Failed to deregister service. Registry service responded with code 500 
+
+[go] - 2023/05/06 17:37:25 [Log service] - http: Server closed
+
